@@ -1,2 +1,2 @@
 # PCA-Python
-Implementation of Principal Component Analysis (PCA) in Pythno
+Implementation of Principal Component Analysis (PCA) in Python
